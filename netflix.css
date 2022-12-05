@@ -215,7 +215,7 @@ li {
 .faq {
   font-size: 42px;
   font-weight: 700;
-  padding: 30px 20px 5px;
+  padding: 30px 20px 15px;
   margin: 40px;
 }
 details > summary {
@@ -231,7 +231,7 @@ details > summary {
   height: 80px;
   padding: 9px 20px;
   margin-bottom: 5px;
-  margin-left: 270px;
+  margin-left: 240px;
 }
 details > p{
   background-color: rgba(128, 128, 128, 0.361) ;
